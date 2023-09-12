@@ -157,7 +157,7 @@ export default function Home() {
     playerData
   ])
 
-  console.log(filteredPlayers)
+  // console.log(filteredPlayers)
 
   const clearFilters = () => {
     setSelectedPosition('')
